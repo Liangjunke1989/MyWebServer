@@ -5,7 +5,5 @@ using System.Text;
 
 namespace MyWebServer
 {
-    public class Class1
-    {
-    }
+    public delegate void DGShowMsg(string msg);
 }
